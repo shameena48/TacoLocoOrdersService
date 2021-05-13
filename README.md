@@ -53,3 +53,7 @@ Response:
 {
     "Order Total": 8.8
 }
+
+Testing: Tested using JUnit testcase
+
+Build & deployment: This can be done using JAR package
